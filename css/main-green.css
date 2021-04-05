@@ -1478,9 +1478,9 @@ body .b-btn-type-square [class*='btn-'], body .b-btn-type-square [class*='button
     border-top: 0; }
 
 .b-list-with-icons__item_icon {
-  background: white;
+  background: rgba(255,255,255,0.5);
   border: 2px solid #f4f4f4;
-  border-radius: 4px;
+  border-radius: 999px;
   padding: 15px 0;
   min-width: 65px;
   float: left; }
@@ -1491,7 +1491,7 @@ body .b-btn-type-square [class*='btn-'], body .b-btn-type-square [class*='button
   text-align: center; }
 
 .f-list-with-icons__item_icon_1 {
-  color: #e26228; }
+  color: #047172; } /*#e26228*/
 
 .f-list-with-icons__item_icon_2 {
   color: #00c6cd; }
